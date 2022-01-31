@@ -5,8 +5,6 @@
 #                                                      #
 #******************************************************#
 
-#FAJ 121 4157
-#CXC4011820
 #Uplink Interference Reporting (LTEFDD/TDD)
 
 #This script uses avg.py -for UlInterference calculation.
