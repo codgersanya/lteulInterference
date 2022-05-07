@@ -1,5 +1,5 @@
 ulInterference.mos uses avg.py -for LTE UlInterference calculation.
-avg.py must be placed to the same directory as this script.
+avg.py must be placed in the same directory as this script.
 The path for the files must be set under "Initial variables" in both scripts.
 Since python works from scripting-vm only, you need to enter to that first.
 
